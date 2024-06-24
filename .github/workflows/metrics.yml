@@ -36,7 +36,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -47,7 +46,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_notable: yes
-          plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_people: yes
           plugin_people_limit: 24
