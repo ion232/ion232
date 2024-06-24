@@ -14,7 +14,7 @@ jobs:
       - name: General
         uses: ion232/metrics@master
         with:
-          filename: general.svg
+          filename: images/general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ion232
           base: header
@@ -41,7 +41,7 @@ jobs:
       - name: Achievements
         uses: ion232/metrics@master
         with:
-          filename: achievements.svg
+          filename: images/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ion232
           base: ""
