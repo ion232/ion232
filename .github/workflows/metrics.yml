@@ -19,14 +19,11 @@ jobs:
           user: ion232
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, followup, languages, habits
+          config_order: base.header, isocalendar, followup, languages
           config_timezone: Europe/London
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_facts: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
