@@ -44,4 +44,5 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_only:  >-
-            member, maintainer, inspirer, polyglot, developer, stargazer, sponsor, scripter, packager, explorer
+            member, maintainer, inspirer, polyglot, developer,
+            stargazer, sponsor, scripter, packager, explorer
