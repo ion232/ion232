@@ -1321,7 +1321,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 64.9kb of code in 16 edited files across 11 commits over last 14 days</small>
+                <small>estimation from 49.4kb of code in 12 edited files across 4 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1339,8 +1339,8 @@
                                 Zig
                             </div>
                             <small>
-                                <div>2.37k lines</div>
-                                <div>64.8 kB</div>
+                                <div>1.92k lines</div>
+                                <div>49.4 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
